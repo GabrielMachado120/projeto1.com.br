@@ -12,7 +12,7 @@
 		<input type="text" id="disciplina" name="disciplina" required>
 
 		<label for="nota">Nota:</label>
-		<input type="number" id="nota" name="nota" min="0" max="10" step="0.01" required>
+		<input type="number" id="nota" name="nota" required>
 
 		<button type="submit">Enviar nota</button>
 	</form>

@@ -7,5 +7,6 @@
 <body>
     <h1>Painel</h1>
     <a href="nota.php">Cadastrar nota</a>
+    
 </body>
 </html>
