@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Login Realizado com Sucesso!</h1>
-    <form method="post" action="nota.php">
-        <button>Calcular sua Nota</button>
-    </form>
+    <h1>Painel</h1>
+    <a href="nota.php">Cadastrar nota</a>
 </body>
 </html>
