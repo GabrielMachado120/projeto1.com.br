@@ -11,8 +11,11 @@
 		<label for="disciplina">Disciplina:</label>
 		<input type="text" id="disciplina" name="disciplina" required>
 
-		<label for="nota">Nota:</label>
-		<input type="number" id="nota" name="nota" min="0" max="10" step="0.01" required>
+		<label for="nota1">1 Nota:</label>
+		<input type="number" name="nota1" required>
+
+		<label for="nota2">2 Nota:</label>
+		<input type="number" name="nota2">
 
 		<button type="submit">Enviar nota</button>
 	</form>
