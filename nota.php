@@ -19,4 +19,5 @@
 
 	<p><a href="painel.php">Voltar ao painel</a></p>
 </body>
+
 </html>
